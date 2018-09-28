@@ -9,7 +9,7 @@ To avoid any copyright problems we'll use the original client (the App) and writ
 If you have any knowledge in Java/Android reverse engineering or programming in general you're welcome to help. Right now we're just collecting info about the inner workings of the client, so just make a pull request where you add anything you found out.
 
 The latest version of GLPA is 1.7.0 so we'll use that. To confirm you've downloaded the correct file you can check it's checksum:
-MD5: d669d5298a13e742ad9574942f3a445f
-SHA1: d14d438ba42edfec794c0a7d73dc2715605a57ff
-SHA256: eea073cff7f0c88ad22e8099022d802bbe25b75cd8515b304e55b539140cc86f
-SHA512: aeb81826aeae16e2e40a65c2fd248b95688eab01a71edfcfe772aed92aef0e8b1116c3de43c6ca5c097b23985dbff0a691ba7124c9e82c759da8ee6b45087874
+MD5: 8a038b758d66fba205c4aec2e7315332
+SHA1: f05ca57582ece97856b66589b4c07b0aeb733a40
+SHA256: be3f0b8da0b461da2ba00b596507eb2afb93e8bdfed8093cd8ab5e1609a29f13
+SHA512: ce6bc412ecad8f495d1a868eaf89b65d4312525b2638223fc7e9c1a7ebf4ad4e19e4d59fba4369c280d1ef97bec8bf5237fc918bf3bc25349a4a39a11d59376e
