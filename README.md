@@ -1,8 +1,8 @@
-# Galaxoversity
+# GalaxoVersity
 
 Galaxy Life was a space themed real time strategy building game developed by Ubisoft. However it was shut down in March 2016 and isn't playable anymore.
 
-The aim of Galaxiversity is to eventually write a working community server for Galaxy Life: Pocket Adventures (the mobile version of Galaxy Life) and to revive the game again.
+The aim of GalaxoVersity is to eventually write a working community server for Galaxy Life: Pocket Adventures (the mobile version of Galaxy Life) and to revive the game again.
 
 To avoid any copyright problems, we'll use the original client (the app) without any modifications and write the server completely from scratch. However to do that, we'll first have to start by reversing the Galaxy Life: Pocket Adventures app, to figure out how it communicated with the servers. The server will be written in Java.
 
