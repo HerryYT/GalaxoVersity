@@ -1,4 +1,4 @@
-# Galaxiversity
+# Galaxoversity
 
 Galaxy Life was a space themed real time strategy building game developed by Ubisoft. However it was shut down in March 2016 and isn't playable anymore.
 
