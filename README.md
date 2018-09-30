@@ -12,4 +12,7 @@ The latest version of GL:PA is 1.7.0, so we are going to use that. I won't uploa
 * MD5: 8a038b758d66fba205c4aec2e7315332
 * SHA1: f05ca57582ece97856b66589b4c07b0aeb733a40
 * SHA256: be3f0b8da0b461da2ba00b596507eb2afb93e8bdfed8093cd8ab5e1609a29f13
-* SHA512: ce6bc412ecad8f495d1a868eaf89b65d4312525b2638223fc7e9c1a7ebf4ad4e19e4d59fba4369c280d1ef97bec8bf5237fc918bf3bc25349a4a39a11d59376e
+
+There are numerous tools for decompiling Android APKs, one of which is JADX: https://github.com/skylot/jadx It has the advantage that you can directly open the apk without somehow converting it first. However no program is perfect, so we should also try other tools to get the best results.
+
+The entry point of the APK is `iStarNativeActivity` in the package `com.digitalchocolate.igalaxy` where `onCreate(Bundle)` gets called first. We can start reversing there.
