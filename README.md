@@ -1,6 +1,6 @@
 # GalaxoVersity
 
-Galaxy Life was a space-themed real-time strategy building game developed by Ubisoft. However, it was shut down in March 2016 and isn't playable anymore.
+Galaxy Life was a space-themed real-time strategy castle defense game developed by Ubisoft. However, it was shut down in March 2016 and isn't playable anymore.
 
 GalaxoVersity aims to code a working community server for Galaxy Life: Pocket Adventures (the mobile version of Galaxy Life) and to revive the game again eventually.
 
